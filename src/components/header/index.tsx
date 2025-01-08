@@ -48,8 +48,9 @@ export function Header() {
           <span className="text-2xl font-brand line-height-none!">
             <p>News</p>
             <p className="mt--1">
-              <span className="color-primary-6">J</span>
-              <span>iqun</span>
+              {/* <span className="color-primary-6">J</span> */}
+              <p className="color-primary-6">J</p>
+              <p>iqun</p>
             </p>
           </span>
         </Link>
