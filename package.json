@@ -1,5 +1,5 @@
 {
-  "name": "newsnow",
+  "name": "news",
   "type": "module",
   "version": "0.0.20",
   "private": true,
@@ -7,7 +7,7 @@
   "author": {
     "url": "https://github.com/ourongxing/",
     "email": "orongxing@gmail.com",
-    "name": "ourongxing"
+    "name": "jiqun001"
   },
   "homepage": "https://github.com/ourongxing/newsnow",
   "scripts": {
