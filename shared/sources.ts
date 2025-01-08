@@ -300,6 +300,14 @@ export const originSources = {
       },
     },
   },
+  "dota2": {
+    name: "DOTA2",
+    color: "red",
+    column: "tech",
+    type: "realtime",
+    interval: Time.Common,
+    home: "https://store.steampowered.com/feeds/news/app/570/?l=schinese",
+  },
 } as const satisfies Record<string, OriginSource>
 
 export const sources = genSources()
